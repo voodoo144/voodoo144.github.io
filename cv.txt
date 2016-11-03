@@ -1,0 +1,110 @@
+Alexey Alexeev
+
+DevOps enthusiast, QA Lead and Test Manager
+voodoo144@yandex.ru
+========================================================================================================
+
+Summary:
+
+Big experience with auto testing tools like Selenium/WebDriver, Watir, AutoIt, SoapUI, JMeter, MActor, 
+Codeception, Mink. Fitnesse Programming Languages: Java, C++, PHP, Scala, Groovy, Ruby Experience with 
+development for Apache Camel, OrientDb, DerbyDB Testing tools creation/development Experience with 
+integration testing. JUnit, TestNG, TestUnit, PhpUnit Experience with IBM WebSphere Product Family. CI: 
+TeamCity, Jenkins, Luntbuild, Bamboo BT: Jira, Redmine Test Management Tools: TestLink, Spiratest, Zephir 
+ServiceBus: TIBCO/rvd Experience with Apache Solr, Tomcat, Nginx Specialization: testing, test automation, 
+deploy/delivery automation.
+========================================================================================================
+
+Experience:
+
+Software Test Manager	at	Luxoft
+January 2014	-	Present (1 year 9 months)
+QA/Devops work for customers( high load infra and trading applications), qa and test-management, test 
+environment management and maintenance. Auto-test development with Fitnesse framework 
+Automatization of deploy processess. Server management tools: Ansible Log management: logstash/kibana 
+Monitoring: monit Service Discovery: apache zookeeper CI: Jenkins Test Management: TestRail
+
+QA Team Lead	at	Svyaznoy CR
+August 2013	-	December 2013	(5 months)
+Managing QA Team, close working with SQA and SRE team. Developing deployment lifecycle. Developing 
+integration layer between Jira and auto-tests. Server management tools: Chef Log management: logstash/ 
+kibana Monitoring: zabbix Auto test language: php/ruby/java Databases: postgres, redis
+1 recommendation available upon request
+
+Senior Automation QA	at	Svyaznoy
+October 2012	-	August 2013	(11 months)
+Auto-tests development, auto-tests maintenance. Improving auto-tests execution time ( changed from 3 
+hours to 20 minutes ) Language: php CI: Jenkins Framework: web-driver / yii
+
+Senior Specialist	at	Neoflex
+February 2012	-	October 2012	(9 months)
+Senior specialist in automation qa department. Implementation auto-tests framework based on 
+WebDriver. Translation manual test cases to automated cases. Teaching another qa specialist in 
+company. Test Management: Spiratest Language: java Framework: web-driver
+
+Automation Test Engineer	at	Molotok.Ru
+July 2011	-	January 2012	(7 months)
+Developing automation tests, framework for automation tests,
+
+Automation Test Engineer	at	Allegro MAIL.RU eCommerce Group
+2011 - 2012 (1 year) 
+auto-tests developing
+
+QA Test Engineer	at	XIM
+December 2010	-	July 2011	(8 months)
+========================================================================================================
+
+Courses:
+
+Time-management
+Problem solving and decision making
+Investment Banking
+========================================================================================================
+
+
+Organizations:
+
+Tester's Life
+Main editor of automatization articles
+January 2013 to Present
+========================================================================================================
+
+Publications:
+
+Modern web automatization
+Tester's Life December 2012 
+Authors: Alexey Alexeev
+In this article I try to describe all modern ways to automate web application testings
+
+Sikuli - universal tester's instrument
+Tester's Life	August 2013
+Authors: Alexey Alexeev
+Article about interresting gui-based instrument Sikuli
+
+Successful git branching model
+Tester's Life	April 2014
+Authors: Alexey Alexeev
+This is russian translation of article	http://nvie.com/posts/a-successful-git-branching-model/
+========================================================================================================
+
+Languages:
+English	(Full professional proficiency)
+Russian	(Native or bilingual proficiency)
+========================================================================================================
+
+Skills & Expertise:
+
+Scrum, Testing, Subversion, Git, Software Project Management, Agile Methodologies, Requirements Analysis,
+Test Planning, Linux, Software Development, Agile Project Management, JIRA, Java, Scala, PHP, PHPUnit, 
+Redmine, Play Framework, Heroku, Jelastic, OOP, FP, Ant, Maven, Dart
+========================================================================================================
+
+Education:
+
+Obninsk Institute of Atomic Energy at National Nuclear Research University "MEPhI"
+Master's degree, Applied Mathemathics, 2005 - 2011 
+========================================================================================================
+
+Interests:
+
+QA, CI, CD, server management, log management, web-development, people management, qa management
